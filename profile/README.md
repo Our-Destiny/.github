@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/ODRDLabs/ODRDLabs/blob/f7be98abbb20299f7859b771d7f1dc9e17ad0c9c/gitwalldefault.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Fallen Angels.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are the Fallen Angels</h1>
 
-<h3 align="center">I'm a passionate A.A.I Researcher And Developer from India.</h3>
+<h3 align="center">Just Think Of Us As Your Guardian Angels</h3>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ About Us
 
 - 🔭 I’m currently working on **[Project Destiny A.A.I]()**
 
