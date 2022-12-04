@@ -2,17 +2,15 @@
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are the Fallen Angels</h1>
 
+---
+
 <h3 align="center">Just Think Of Us As Your Guardian Angels</h3>
 
 ---
 
-
-
-
 ### Connect with us:
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
-
 
 ---
 
