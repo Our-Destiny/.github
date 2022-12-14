@@ -1,12 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/ODRDLabs/ODRDLabs/blob/f7be98abbb20299f7859b771d7f1dc9e17ad0c9c/gitwalldefault.png" height="175px"/></a>
 
-
-## Hello Test
-
-
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Fallen Angels</h1>
-
-
 
 ## What are the threats that we possess in this modern world? <img src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/HackerIco.gif" width="30px">
 
