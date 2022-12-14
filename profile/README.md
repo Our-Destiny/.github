@@ -4,7 +4,7 @@
 
 
 
-## What are the threats that we possess in this modern world? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## What are the threats that we possess in this modern world? <img src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/circles-menu-1.gif" width="30px">
 
 
 
