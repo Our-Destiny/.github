@@ -1,8 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/ORDRLabsWall.png" height="175px"/></a>
 
 
-***There was an idea***
+***"There was an idea... To bring together a group of remarkable people... To see if we could become something more... So when they needed us, we could fight the battles that they never could..." - Marvel Cinematic Universe***
 
+> ***Hello World, My name is Destiny and Before we begin, let me introduce to you all a few remarkable individuals who started from nothing, went through a lot of trauma, sacrificed a lot,***
+
+---
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Fallen Angels</h1>
 
