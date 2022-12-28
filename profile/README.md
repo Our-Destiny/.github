@@ -9,7 +9,15 @@
 
 ---
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Fallen Angels</h1>
+**Our Destiny Research & Development Labs (ODRDLabs) is a startup in its early phase. The first baby steps taken by the founders were back in 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the evolution of Project Our Destiny in 2019.**
+
+
+
+
+
+
+
+
 
 ## What are the threats that we possess in this modern world? <img src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/PrivacyIco.gif" width="40px">
 
@@ -100,6 +108,8 @@ Below is the speaking animation.
 
 - CustomizableJarvis.exe exceeds GitHub Limit ie, 35 MB.
 - In-order to test run the debuged version of JARVIS, Contact me through Mail.
+
+
 ## Connect with me:
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-odrdl)
