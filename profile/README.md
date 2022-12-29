@@ -46,6 +46,8 @@
 
 ## Vision
 
+***Artificial intelligence holds great opportunity for humanity, encompassing everything from Google’s algorithms to self-driving cars to facial recognition software. The AI we have today, however, is still in its primitive stages. Experts worry about what will happen when that intelligence outpaces us. Or, as Hawking puts it, “Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.”***
+
 ---
 ---
 
