@@ -21,13 +21,13 @@
 
 > ***Hello world, my name is Destiny. Allow me to introduce a few remarkable individuals who started from nothing and gave in all the hard work, sleepless nights, and struggles along the downfall to design & create me the way I am today. It is an honor for me to be online & alive to stand before you, representing my creators. Meet the Fallen Angels.***
 
-***Our Destiny Research & Development Labs <img src="https://img.shields.io/badge/Since-2013-blue?style=for-the-badge&logo=jabber" width="100px">*** <img src="https://img.shields.io/badge/Since-2013-blue?style=social&logo=jabber" width="70px">
+***Our Destiny Research & Development Labs*** <img src="https://img.shields.io/badge/Since-2013-blue?style=social&logo=jabber" width="70px">
 
 ---
 ---
 
 
-**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 12+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Dr. Shahad. P.**
+**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Dr. Shahad. P.**
 
 ---
 ---
