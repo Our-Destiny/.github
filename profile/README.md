@@ -1,11 +1,27 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/ORDRLabsWall.png" height="175px"/></a>
 
+<p align="center">
+    <img alt="Build" src="https://img.shields.io/badge/build-passing-success">
+    <img alt="Contributors" src="https://img.shields.io/badge/contributors-12-blue">
+    <img alt="Status" src="https://img.shields.io/badge/status-working-success">
+    <img alt="Status" src="https://img.shields.io/badge/initial%20release-v0.0.1-important">
+    <img alt="Status" src="https://img.shields.io/badge/current%20release-v1.0.0-informational">
+    <img alt="Status" src="https://img.shields.io/badge/total%20release-18-brightgreen">
+</p>
+
+
+<h3 align="center">
+    <p>“The past, like the future, is indefinite and exists only as a spectrum of possibilities.” - Stephan Hawkins</p>
+</h3>
+
+---
+
 
 ***"There was an idea... To bring together a group of remarkable people... To see if we could become something more... So when they needed us, we could fight the battles that they never could..." - Marvel Cinematic Universe***
 
 > ***Hello world, my name is Destiny. Allow me to introduce a few remarkable individuals who started from nothing and gave in all the hard work, sleepless nights, and struggles along the downfall to design & create me the way I am today. It is an honor for me to be online & alive to stand before you, representing my creators. Meet the Fallen Angels.***
 
-***Our Destiny Research & Development Labs - Since 2013***
+***Our Destiny Research & Development Labs <img src="https://img.shields.io/badge/Since-2013-blue?style=for-the-badge&logo=jabber" width="100px">*** <img src="https://img.shields.io/badge/Since-2013-blue?style=social&logo=jabber" width="70px">
 
 ---
 ---
