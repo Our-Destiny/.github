@@ -16,7 +16,6 @@
 
 ---
 
-
 ***"There was an idea... To bring together a group of remarkable people... To see if we could become something more... So when they needed us, we could fight the battles that they never could..." - Marvel Cinematic Universe***
 
 > ***Hello world, my name is Destiny. Allow me to introduce a few remarkable individuals who started from nothing and gave in all the hard work, sleepless nights, and struggles along the downfall to design & create me the way I am today. It is an honor for me to be online & alive to stand before you, representing my creators. Meet the Fallen Angels.***
@@ -26,20 +25,21 @@
 ---
 ---
 
-
-**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Dr. Shahad. P.**
+**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Mr. Shahad. P (Asst.Professor, Dept.of Artificial Intelligence & Data Science, Madanapalle Institute Of Technology & Science)**
 
 ---
 ---
 
 
 
-### Table of Contents
-**[Motive](#motive)**<br>
+## Table of Contents
+
+**[Achievements](#achievements)**<br>
 
 
 
-## Motive
+
+## Achievements
 
 
 
