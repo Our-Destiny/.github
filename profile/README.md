@@ -24,6 +24,7 @@
 
 ---
 ---
+### About
 
 **Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Mr. Shahad. P (Asst.Professor, Dept.of Artificial Intelligence & Data Science, Madanapalle Institute Of Technology & Science)**
 
@@ -32,7 +33,7 @@
 
 
 
-## Table of Contents
+### Table of Contents
 
 **[Achievements](#achievements)**<br>
 
