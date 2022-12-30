@@ -56,7 +56,7 @@
 #### “You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,” Hawking writes.
 
 ***For those still unpersuaded, he suggests a different metaphor. “Why are we so worried about AI? Surely humans are always able to pull the plug?” a hypothetical person asks him.
-Hawking answers: “People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”
+Hawking answers: “People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”***
 
 
 ---
