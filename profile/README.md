@@ -48,7 +48,7 @@
 
 #### Artificial intelligence holds great opportunity for humanity, encompassing everything from Google’s algorithms to self-driving cars to facial recognition software. The AI we have today, however, is still in its primitive stages. Experts worry about what will happen when that intelligence outpaces us. Or, as Hawking puts it, “Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.”
 
-> ***"The development of full artificial intelligence could spell the end of the human race….It would take off on its own, and re-design itself at an ever-increasing rate. Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded." - Stephen Hawking (From an interview with the BBC, December 2014)***
+> ***"The development of full artificial intelligence could spell the end of the human race….It would take off on its own, and re-design itself at an ever-increasing rate. Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded."*** - Stephen Hawking (From an interview with the BBC, December 2014)
 
 #### This might sound like the stuff of science fiction, but Hawking says dismissing it as such “would be a mistake, and potentially our worst mistake ever.”
 #### Compared to robots, we humans are pretty clunky. Limited by the slow pace of evolution, it takes us generations to iterate. Robots, on the other hand, can improve upon their own design a lot faster, and soon, they’ll probably be able to do so without our help. Hawking says this will create an “intelligence explosion” in which machines could exceed our intelligence “by more than ours exceeds that of snails.”
@@ -57,6 +57,10 @@
 
 ***For those still unpersuaded, he suggests a different metaphor. “Why are we so worried about AI? Surely humans are always able to pull the plug?” a hypothetical person asks him.
 Hawking answers: “People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”***
+
+> ***The establishment of shared theoretical frameworks, combined with the availability of data and processing power, has yielded remarkable successes in various component tasks such as speech recognition, image classification, autonomous vehicles, machine translation, legged locomotion, and question-answering systems.***
+
+> ***As capabilities in these areas and others cross the threshold from laboratory research to economically valuable technologies, a virtuous cycle takes hold whereby even small improvements in performance are worth large sums of money, prompting greater investments in research. There is now a broad consensus that AI research is progressing steadily, and that its impact on society is likely to increase…. Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.*** - From Research Priorities for Robust and Beneficial Artificial Intelligence, an open letter co-signed by Hawking, January 2015
 
 
 ---
