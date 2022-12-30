@@ -46,7 +46,14 @@
 
 ## Vision
 
-***Artificial intelligence holds great opportunity for humanity, encompassing everything from Google’s algorithms to self-driving cars to facial recognition software. The AI we have today, however, is still in its primitive stages. Experts worry about what will happen when that intelligence outpaces us. Or, as Hawking puts it, “Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.”***
+#### Artificial intelligence holds great opportunity for humanity, encompassing everything from Google’s algorithms to self-driving cars to facial recognition software. The AI we have today, however, is still in its primitive stages. Experts worry about what will happen when that intelligence outpaces us. Or, as Hawking puts it, “Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.”
+
+> ***"The development of full artificial intelligence could spell the end of the human race….It would take off on its own, and re-design itself at an ever-increasing rate. Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded." - Stephen Hawking (From an interview with the BBC, December 2014)***
+
+#### This might sound like the stuff of science fiction, but Hawking says dismissing it as such “would be a mistake, and potentially our worst mistake ever.”
+#### Compared to robots, we humans are pretty clunky. Limited by the slow pace of evolution, it takes us generations to iterate. Robots, on the other hand, can improve upon their own design a lot faster, and soon, they’ll probably be able to do so without our help. Hawking says this will create an “intelligence explosion” in which machines could exceed our intelligence “by more than ours exceeds that of snails.”
+#### A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that the “real risk with AI isn’t malice, but competence.” Basically, AI will be very good at accomplishing its goals; if humans get in the way, we could be in trouble.
+
 
 ---
 ---
