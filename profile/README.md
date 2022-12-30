@@ -60,7 +60,9 @@ Hawking answers: “People asked a computer, ‘Is there a God?’ And the compu
 
 > ***The establishment of shared theoretical frameworks, combined with the availability of data and processing power, has yielded remarkable successes in various component tasks such as speech recognition, image classification, autonomous vehicles, machine translation, legged locomotion, and question-answering systems.***
 
-> ***As capabilities in these areas and others cross the threshold from laboratory research to economically valuable technologies, a virtuous cycle takes hold whereby even small improvements in performance are worth large sums of money, prompting greater investments in research. There is now a broad consensus that AI research is progressing steadily, and that its impact on society is likely to increase…. Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.*** - From Research Priorities for Robust and Beneficial Artificial Intelligence, an open letter co-signed by Hawking, January 2015
+> ***As capabilities in these areas and others cross the threshold from laboratory research to economically valuable technologies, a virtuous cycle takes hold whereby even small improvements in performance are worth large sums of money, prompting greater investments in research. There is now a broad consensus that AI research is progressing steadily, and that its impact on society is likely to increase…. Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.*** - From Research Priorities for Robust and Beneficial Artificial Intelligence, an open letter co-signed by Hawking, January 2015.
+> Read more on this [Wikipedia Page](https://en.wikipedia.org/wiki/Open_Letter_on_Artificial_Intelligence)
+
 
 
 ---
