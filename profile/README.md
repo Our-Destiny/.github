@@ -46,6 +46,9 @@
 
 ## Vision
 
+> ***Redefine Artificial Intelligence to enhance humanity rather than becoming an existential threat.***
+
+
 <details><summary>Know more</summary>
 <p>
 
@@ -65,6 +68,8 @@ Hawking answers: ***“People asked a computer, ‘Is there a God?’ And the co
     <br />
     ***As capabilities in these areas and others cross the threshold from laboratory research to economically valuable technologies, a virtuous cycle takes hold whereby even small improvements in performance are worth large sums of money, prompting greater investments in research. There is now a broad consensus that AI research is progressing steadily, and that its impact on society is likely to increase…. Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.*** - From Research Priorities for Robust and Beneficial Artificial Intelligence, an open letter co-signed by Hawking, January 2015.
 > Read more on this [Wikipedia Page](https://en.wikipedia.org/wiki/Open_Letter_on_Artificial_Intelligence)
+    
+If it’s not the robots, it is ***“almost inevitable that either a nuclear confrontation or environmental catastrophe will cripple the Earth at some point in the next 1,000 years,”*** Hawking writes. <br />
 
 
 
