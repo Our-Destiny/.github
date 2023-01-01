@@ -58,10 +58,13 @@ Artificial intelligence holds great opportunity for humanity, encompassing every
 
 > ***"The development of full artificial intelligence could spell the end of the human race….It would take off on its own, and re-design itself at an ever-increasing rate. Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded."*** - Stephen Hawking (From an interview with the BBC, December 2014)
 
-This might sound like the stuff of science fiction, but Hawking says dismissing it as such **“would be a mistake, and potentially our worst mistake ever.”**
-Compared to robots, we humans are pretty clunky. Limited by the slow pace of evolution, it takes us generations to iterate. Robots, on the other hand, can improve upon their own design a lot faster, and soon, they’ll probably be able to do so without our help. Hawking says this will create an **“intelligence explosion”** in which machines could exceed our intelligence **“by more than ours exceeds that of snails.”**
-A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that the **“real risk with AI isn’t malice, but competence.”** Basically, AI will be very good at accomplishing its goals; if humans get in the way, we could be in trouble.
-#### “You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,” Hawking writes.
+This might sound like the stuff of science fiction, but Hawking says dismissing it as such **“would be a mistake, and potentially our worst mistake ever.”** <br />
+    
+Compared to robots, we humans are pretty clunky. Limited by the slow pace of evolution, it takes us generations to iterate. Robots, on the other hand, can improve upon their own design a lot faster, and soon, they’ll probably be able to do so without our help. Hawking says this will create an **“intelligence explosion”** in which machines could exceed our intelligence **“by more than ours exceeds that of snails.”** <br />
+    
+A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that the **“real risk with AI isn’t malice, but competence.”** Basically, AI will be very good at accomplishing its goals; if humans get in the way, we could be in trouble. <br />
+    
+#### “You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,” Hawking writes. <br />
 
 For those still unpersuaded, he suggests a different metaphor. ***“Why are we so worried about AI? Surely humans are always able to pull the plug?”*** a hypothetical person asks him.
 Hawking answers: ***“People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”***
