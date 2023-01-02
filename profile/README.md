@@ -103,7 +103,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 ## Mission
 
 
-- [x]  <details><summary>Know more</summary><p> Surprise Kiddo</p></details>
+- [x] **Isolation based Security for Prevention and Enhances Incident Response** <details><summary>Know more</summary><p> Surprise Kiddo</p></details>
 - [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
