@@ -65,6 +65,8 @@ Compared to robots, we humans are pretty clunky. Limited by the slow pace of evo
 A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that the **“real risk with AI isn’t malice, but competence.”** Basically, AI will be very good at accomplishing its goals; if humans get in the way, we could be in trouble. <br />
     
 #### “You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,” Hawking writes. <br />
+    
+> ***In conclusion, The real risk with AI isn’t malice but competence. A superintelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned with ours, we’re in trouble.***
 
 For those still unpersuaded, he suggests a different metaphor. ***“Why are we so worried about AI? Surely humans are always able to pull the plug?”*** a hypothetical person asks him.
 Hawking answers: ***“People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”***
@@ -82,13 +84,15 @@ Another warning isn’t any less menacing. We are entering a new phase of ***“
     
 As with AI, the ability to edit our own DNA holds the potential to fix humanity’s greatest problems. First, and likely not in the distant future, we’ll be able to repair genetic defects, editing out genes for things like muscular dystrophy and amyotrophic lateral sclerosis, or ALS, the disease he was diagnosed with in 1963. Hawking says that within this century, we’ll be able to edit intelligence, memory, and length of life. And that’s when things could get really complicated. <br />
 
-Hawking calls the people who will do this “superhumans,” and they’re likely to be the world’s wealthy elites. Regular old humans won’t be able to compete, and will probably “die out, or become unimportant.” At the same time, superhumans will likely be “colonizing other planets and stars.” <br />
+Hawking calls the people who will do this **“superhumans,”** and they’re likely to be the world’s wealthy elites. Regular old humans won’t be able to compete, and will probably **“die out, or become unimportant.”** At the same time, superhumans will likely be **“colonizing other planets and stars.”** <br />
 
-If that all sounds pretty depressing, it is. But even as Hawking serves up an apocalyptic prognosis for the planet and everyone on it, his brand of optimism comes through. He has faith that “our ingenious race will have found a way to slip the surly bonds of Earth and will therefore survive the disaster.” <br />
+If that all sounds pretty depressing, it is. But even as Hawking serves up an apocalyptic prognosis for the planet and everyone on it, his brand of optimism comes through. He has faith that **“our ingenious race will have found a way to slip the surly bonds of Earth and will therefore survive the disaster.”** <br />
 
-He even believes that, instead of being terrifying, these possibilities are thrilling and that it “greatly increases the chances of inspiring the new Einstein. Wherever she might be.” <br />
+He even believes that, instead of being terrifying, these possibilities are thrilling and that it **“greatly increases the chances of inspiring the new Einstein. Wherever she might be.”** <br />
 
-Figuring out a way off of planet Earth, and maybe even the solar system, is an opportunity to do what the moon landings did: “elevate humanity, bring people and nations together, usher in new discoveries and new technologies.” <br />
+***Figuring out a way off of planet Earth, and maybe even the solar system, is an opportunity to do what the moon landings did: “elevate humanity, bring people and nations together, usher in new discoveries and new technologies.”*** <br />
+    
+In conclusion
 
 
 
@@ -102,7 +106,7 @@ Figuring out a way off of planet Earth, and maybe even the solar system, is an o
 ## Mission
 
 
-- [x] #739
+- [x] Hello World <details><summary>Know more</summary><p> Surprise Kiddo</p></details>
 - [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
