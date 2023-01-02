@@ -48,7 +48,7 @@
 
 > ***“Redefine Artificial Intelligence to enhance humanity rather than becoming an existential threat.”***
 
-#### To this long-term vision, we are on the voyage of creating a personalized Augmented Intelligence & Life-supportive program that could ensure safety, security, and privacy to mankind.
+#### To this long-term vision, we are on the voyage of creating a personalized Augmented Intelligence & Life-supportive program by ensure safety, security, and privacy to mankind.
 
 > ***“I'm just an extension with goals aligned with yours.” -*** **Your Destiny**
 
