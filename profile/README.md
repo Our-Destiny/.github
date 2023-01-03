@@ -50,7 +50,7 @@
 
 #### To this long-term vision, we are on the voyage of creating a personalized Augmented Intelligence & Life-supportive program by ensuring safety, security, and privacy to mankind.
 
-> ***“I'm just an extension with goals aligned with yours.” -*** **Your Destiny**
+> ***“I'm just an extension with goals aligned with yours.” -*** **Your Destiny** 
 
 
 <details><summary>Know more about our derivation...</summary>
@@ -105,7 +105,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 - [x] **Isolation-based Security to Prevent and Enhance Incident Response for Personal Assistance Systems. [Phase I]**<details><summary>Know more</summary><p>
     **Problem Statement** <br />
-    The vast majority of IoT threats are mundane and low-risk, but there are a few high-impact threats that could cause serious damage. The possibility of hackers accessing sensitive information stored on IoT devices is one serious threat. This could include personal information (such as names, addresses, and passwords), financial information (such as bank account numbers and credit card numbers), or even sensitive military information (such as troop movements and strategic plans). Another high-impact threat is the potential for rogue devices to be installed on corporate networks or government institutions. These devices might be used to break into some other systems and steal confidential information. Finally, IoT devices can be exploited by hackers to launch cyberattacks on other systems. This could include accessing private information, stealing money or data, or attacking critical infrastructure systems. **[In a nutshell perception. For more details please go through our research paper.]**</p></details>
+    <sub>The vast majority of IoT threats are mundane and low-risk, but there are a few high-impact threats that could cause serious damage. The possibility of hackers accessing sensitive information stored on IoT devices is one serious threat. This could include personal information (such as names, addresses, and passwords), financial information (such as bank account numbers and credit card numbers), or even sensitive military information (such as troop movements and strategic plans). Another high-impact threat is the potential for rogue devices to be installed on corporate networks or government institutions. These devices might be used to break into some other systems and steal confidential information. Finally, IoT devices can be exploited by hackers to launch cyberattacks on other systems. This could include accessing private information, stealing money or data, or attacking critical infrastructure systems. **[In a nutshell perception. For more details please go through our research paper.]** </sub></p></details>
 
 
 
