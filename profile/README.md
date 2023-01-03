@@ -103,7 +103,16 @@ He even believes that, instead of being terrifying, these possibilities are thri
 ## Mission
 
 
-- [x] **Isolation based Security for Prevention and Enhances Incident Response** <details><summary>Know more</summary><p> Surprise Kiddo</p></details>
+- [x] **Isolation-based Security to Prevent and Enhance Incident Response for Personal Assistance Systems. [Phase I]**<details><summary>Know more</summary><p>
+    **Problem Statement** <br />
+    The vast majority of IoT threats are mundane and low-risk, but there are a few high-impact threats that could cause serious damage. The possibility of hackers accessing sensitive information stored on IoT devices is one serious threat. This could include personal information (such as names, addresses, and passwords), financial information (such as bank account numbers and credit card numbers), or even sensitive military information (such as troop movements and strategic plans). Another high-impact threat is the potential for rogue devices to be installed on corporate networks or government institutions. These devices might be used to break into some other systems and steal confidential information. Finally, IoT devices can be exploited by hackers to launch cyberattacks on other systems. This could include accessing private information, stealing money or data, or attacking critical infrastructure systems. **[In a nutshell perception. For more details please go through our research paper.]**</p></details>
+
+
+
+
+
+
+
 - [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
