@@ -106,8 +106,8 @@ He even believes that, instead of being terrifying, these possibilities are thri
     **Problem Statement :** <br />
     <sub>The vast majority of IoT threats are mundane and low-risk, but there are a few high-impact threats that could cause serious damage. The possibility of hackers accessing sensitive information stored on IoT devices is one serious threat. This could include personal information (such as names, addresses, and passwords), financial information (such as bank account numbers and credit card numbers), or even sensitive military information (such as troop movements and strategic plans). Another high-impact threat is the potential for rogue devices to be installed on corporate networks or government institutions. These devices might be used to break into some other systems and steal confidential information. Finally, IoT devices can be exploited by hackers to launch cyberattacks on other systems. This could include accessing private information, stealing money or data, or attacking critical infrastructure systems. **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
     <br />
-    **Our Proposed Solution :** <br />
-    <sub> - Design an isolated system capable of running completely offline (Without Internet).</sub>
+    **Our Proposed Solution :** <br /><sub> 
+      - Design an isolated system capable of running completely offline (Without Internet).</sub>
     </p></details>
 
 
