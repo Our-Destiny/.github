@@ -101,36 +101,66 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 ## Mission
 
+---
+---
 
-- [x] **Isolation-based Security to Prevent and Enhance Incident Response for Personal Assistance Systems. [Phase I]**<details><summary>Know more</summary><p><br />
+
+## Achievements
+
+   ### 11th CSI International Awards :2nd_place_medal:
+
+---
+---
+
+
+
+
+## Milestones
+
+
+- [x] **Isolation-based Security to Prevent and Enhance Incident Response for Personal Assistance Systems. [Phase I]** :shield:<details><summary>Know more</summary><p><br />
     **Problem Statement :** <br />
     <sub>The vast majority of IoT threats are mundane and low-risk, but there are a few high-impact threats that could cause serious damage. The possibility of hackers accessing sensitive information stored on IoT devices is one serious threat. This could include personal information (such as names, addresses, and passwords), financial information (such as bank account numbers and credit card numbers), or even sensitive military information (such as troop movements and strategic plans). Another high-impact threat is the potential for rogue devices to be installed on corporate networks or government institutions. These devices might be used to break into some other systems and steal confidential information. Finally, IoT devices can be exploited by hackers to launch cyberattacks on other systems. This could include accessing private information, stealing money or data, or attacking critical infrastructure systems. **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
     <br />
     **Our Proposed Solution :** <br /><sub> 
-      - Design an isolated system capable of running completely offline (Without Internet).</sub>
+     - Design an isolated system capable of running completely offline (Without Internet).</sub>
     </p></details>
 
+- [x] **A rule based PA(Personal Assistance System).**<details><summary>Know more</summary><p><br />
+    **What is a Rule-Based System?** <br />
+    <sub>A rule-based system is a system that applies human-made rules to store, sort and manipulate data. In doing so, it mimics human intelligence. 
+        Rule-based systems require a set of facts or source of data, and a set of rules for manipulating that data. These rules are sometimes referred to as ‘If statements’ as they tend to follow the line of ‘IF X happens THEN do Y’.  **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
+    <br />
+    **What are the characteristics of rule-based systems?** <br /><sub> 
+    - <sub>They are made up of the combined knowledge of human experts in the problem domain.</sub>
+    - <sub>They represent knowledge in a very declarative manner.</sub>
+    - <sub>They make it possible to use various knowledge representations paradigms.</sub>
+    - <sub>They support the implementation of non-deterministic search and control strategies.</sub>
+    - <sub>They help in describing fragmentary, ill-structured, heuristic, judgemental knowledge.</sub>
+    - <sub>They are robust and have the ability to operate using uncertain or incomplete knowledge.</sub>
+    - <sub>They can help with rule based decision making.</sub>
+    <br />
+    
+    **How does a rule based system in AI work?** <br />
+    <sub>Rule-based systems outlines triggers & the actions that should follow (or are triggered). For example, a trigger might be an email containing the word “invoice”. An action might then be to forward the email to the finance team.
+        These rules most often take the form of "if" statements. "IF" outlines the trigger, "THEN" specifies the action to complete. So, if you want to create a rule-based system capable of handling 100 different actions, you’d have to write 100 different rules. If you want to then update the system and add actions, then you would need to write new rules.
+        In short, you use rules to tell a machine what to do, and the machine will do exactly as you tell it. From there, rule-based systems will execute the actions until you tell it to stop.
+        But remember: if you tell it to do something incorrectly, it will do it incorrectly.  **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
+    </p></details>
 
+- [x] **Automating Operating Systems.**<details><summary>Know more</summary><p><br />
+    </p></details>
+    
+- [x] **Offline Speech Recognition & Text-To-Speech.**<details><summary>Know more</summary><p><br />
+    </p></details>
 
-
-
-
-
-- [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 ---
 ---
 
-## Achievements
 
-   ### 11th CSI International Awards
-
----
----
-
-## Milestones
 
 ---
 ---
