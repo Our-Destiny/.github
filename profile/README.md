@@ -32,7 +32,7 @@
 ---
 
 
-### Table of Contents
+### Table of Contents 
 
 **[Vision](#vision)**<br>
 **[Mission](#mission)**<br>
