@@ -44,7 +44,7 @@
 ---
 ---
 
-## 𝗩𝗶𝘀𝗶𝗼𝗻
+## Vision
 
 > ***“Redefine Artificial Intelligence to enhance humanity rather than becoming an existential threat.”***
 
@@ -106,7 +106,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 
 
-## 𝗠𝗶𝘀𝘀𝗶𝗼𝗻
+## Mission
 
 - Create a Reliable and Network Independent Personal Assistance Program.
   - Simple Rule-Based Personal Assistance Program.(Jarvis)
@@ -130,7 +130,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 
 
-## 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+## Achievements
 
    
    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
