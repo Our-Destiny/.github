@@ -139,7 +139,11 @@ He even believes that, instead of being terrifying, these possibilities are thri
    <h3 align="center">𝑭𝒓𝒐𝒎</h3>
    <h4 align="center">𝗠𝗘𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗼𝗹𝗹𝗲𝗴𝗲, 𝗠𝗮𝗹𝗮𝗽𝗽𝘂𝗿𝗮𝗺, 𝗞𝗲𝗿𝗮𝗹𝗮</h4>
    <h4 align="center">𝒊𝒏 𝒕𝒉𝒆 𝟭𝟭ᵗʰ 𝗖𝗦𝗜-𝗜𝗻𝗔𝗽𝗽 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟮</h4>
-
+   <details><summary>Read more...</summary>
+<p>
+    Buhahahahahah
+</p>
+</details>
 
 
 ---
