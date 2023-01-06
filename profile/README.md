@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/ORDRLabsWall.png" height="175px"/></a>
 
+
 <p align="center">
     <img alt="Build" src="https://img.shields.io/badge/build-passing-success">
     <img alt="Contributors" src="https://img.shields.io/badge/contributors-12-blue">
@@ -133,11 +134,11 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
    
    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
-   <h3 align="center">Team 𝗧𝗵𝗲 𝗙𝗮𝗹𝗹𝗲𝗻 𝗔𝗻𝗴𝗲𝗹𝘀 has secured the 𝗙𝗜𝗥𝗦𝗧 𝗥𝗨𝗡𝗡𝗘𝗥 𝗨𝗣 𝗔𝗪𝗔𝗥𝗗 for the Project</h3>
-   <h3 align="center">𝗦𝘁𝗿𝗲𝗮𝗺 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘇𝗲𝗿 𝗣𝗹𝘂𝗴-𝗶𝗻 𝗙𝗼𝗿 𝗗𝗲𝘀𝘁𝗶𝗻𝘆 (𝗔𝗻 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗕𝗮𝘀𝗲𝗱 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁) 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗜𝗻𝘁𝗼 𝗛𝗼𝗺𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻</h3>
-   <h3 align="center">From</h3>
-   <h3 align="center">𝗠𝗘𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗼𝗹𝗹𝗲𝗴𝗲, 𝗠𝗮𝗹𝗮𝗽𝗽𝘂𝗿𝗮𝗺, 𝗞𝗲𝗿𝗮𝗹𝗮</h3>
-   <h3 align="center">in the 𝟭𝟭ᵗʰ 𝗖𝗦𝗜-𝗜𝗻𝗔𝗽𝗽 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟮</h3>
+   <h3 align="center">𝑻𝒆𝒂𝒎 𝗧𝗵𝗲 𝗙𝗮𝗹𝗹𝗲𝗻 𝗔𝗻𝗴𝗲𝗹𝘀 𝒉𝒂𝒔 𝒔𝒆𝒄𝒖𝒓𝒆𝒅 𝒕𝒉𝒆 𝗙𝗜𝗥𝗦𝗧 𝗥𝗨𝗡𝗡𝗘𝗥 𝗨𝗣 𝗔𝗪𝗔𝗥𝗗 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</h3>
+   <h4 align="center">𝗦𝘁𝗿𝗲𝗮𝗺 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘇𝗲𝗿 𝗣𝗹𝘂𝗴-𝗶𝗻 𝗙𝗼𝗿 𝗗𝗲𝘀𝘁𝗶𝗻𝘆 (𝗔𝗻 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗕𝗮𝘀𝗲𝗱 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁) 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗜𝗻𝘁𝗼 𝗛𝗼𝗺𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻</h4>
+   <h4 align="center">𝑭𝒓𝒐𝒎</h4>
+   <h5 align="center">𝗠𝗘𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗼𝗹𝗹𝗲𝗴𝗲, 𝗠𝗮𝗹𝗮𝗽𝗽𝘂𝗿𝗮𝗺, 𝗞𝗲𝗿𝗮𝗹𝗮</h5>
+   <h5 align="center">𝒊𝒏 𝒕𝒉𝒆 𝟭𝟭ᵗʰ 𝗖𝗦𝗜-𝗜𝗻𝗔𝗽𝗽 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟮</h5>
 
 
 
