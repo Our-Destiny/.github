@@ -134,7 +134,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
    
    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
-   <h3 align="center">Team 𝙏𝙝𝙚 𝙁𝙖𝙡𝙡𝙚𝙣 𝘼𝙣𝙜𝙚𝙡𝙨 has secured the FIRST RUNNER UP AWARD for the project Stream Data Analyzer Plug-in For Destiny (An Autonomous Artificial Intelligence Based Digital Assistant) Integrated Into Home Automation Mentored By Mr. Shahad P Assistant Professor of MEA Engineering College in the 11th CSI INAPP International Student Project Awards 2022</h3>
+   <h3 align="center">Team 𝙏𝙝𝙚 𝙁𝙖𝙡𝙡𝙚𝙣 𝘼𝙣𝙜𝙚𝙡𝙨 has secured the 𝙁𝙄𝙍𝙎𝙏 𝙍𝙐𝙉𝙉𝙀𝙍 𝙐𝙋 𝘼𝙒𝘼𝙍𝘿 for the project<br /> Stream Data Analyzer Plug-in For Destiny (An Autonomous Artificial Intelligence Based Digital Assistant) Integrated Into Home Automation<br /> Mentored By 𝙈𝙧. 𝙎𝙝𝙖𝙝𝙖𝙙 𝙋 Assistant Professor of<br /> MEA Engineering College, Malappuram, Kerala in the 11th CSI INAPP International Student Project Awards 2022</h3>
    
    
    <details><summary>Read more...</summary>
