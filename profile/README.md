@@ -32,7 +32,7 @@
 ---
 
 
-### Table of Contents 
+### 𝗧𝗮𝗯𝗹𝗲 𝗼𝗳 𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀 
 
 **[Vision](#vision)**<br>
 **[Mission](#mission)**<br>
@@ -43,7 +43,7 @@
 ---
 ---
 
-## Vision
+## 𝗩𝗶𝘀𝗶𝗼𝗻
 
 > ***“Redefine Artificial Intelligence to enhance humanity rather than becoming an existential threat.”***
 
@@ -105,7 +105,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 
 
-## Mission
+## 𝗠𝗶𝘀𝘀𝗶𝗼𝗻
 
 - Create a Reliable and Network Independent Personal Assistance Program.
   - Simple Rule-Based Personal Assistance Program.(Jarvis)
@@ -129,11 +129,12 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 
 
-## Achievements
+## 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
 
    
    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
-   <h3 align="center">𝗧𝗵𝗲 𝗙𝗮𝗹𝗹𝗲𝗻 𝗔𝗻𝗴𝗲𝗹𝘀 𝗵𝗮𝘀 𝘀𝗲𝗰𝘂𝗿𝗲𝗱 𝘁𝗵𝗲</h3>
+   <h3 align="center">𝗧𝗵𝗲 𝗙𝗮𝗹𝗹𝗲𝗻 𝗔𝗻𝗴𝗲𝗹𝘀 has secured the FIRST RUNNER UP AWARD for the project</h3>
+   <h3 align="center">Stream Data Analyzer Plug-in For Destiny (An Autonomous Artificial Intelligence Based Digital Assistant) Integrated Into Home Automation.</h3>
 
 ---
 ---
