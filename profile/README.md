@@ -101,6 +101,8 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 ## Mission
 
+- 
+
 ---
 ---
 
@@ -149,9 +151,40 @@ He even believes that, instead of being terrifying, these possibilities are thri
     </p></details>
 
 - [x] **Automating Operating Systems.**<details><summary>Know more</summary><p><br />
+    **What is Automation and Automating an Operating System?**<br />
+    <sub>Automation is the use of technology to accomplish a task with as little human interaction as possible. In computing, automation is usually accomplished by a program, a script, or batch processing. Here, Automating the Operating System is to achieve user-controlled actions to be made fully automatic with the help of speech recognition or autonomy.</sub><br />
+    <br />
+    **What are the automations that we have implemented here by far?** <br /><sub> 
+    - <sub>Basic File & Folder access control and thier advanced operations</sub>
+    - <sub>Media Control</sub>
+    - <sub>System Control & Navigation</sub>
+    - <sub>Browser Automation</sub>
+    - <sub>Application Control Automation</sub><br />
+    <br />
+    
+    **Platforms Tested by far :** <br />
+    - <sub>Windows</sub>
+    - <sub>Ubuntu</sub>
+    - <sub>Kali Linux</sub>
+    - <sub>Android</sub>
+    - <sub>Arch Linux</sub>
     </p></details>
     
 - [x] **Offline Speech Recognition & Text-To-Speech.**<details><summary>Know more</summary><p><br />
+    **What is Text-To-Speech?**<br />
+    <sub>Text-to-Speech (also known as TTS, speech or voice synthesis) produces voices from text as its name would suggest. This technology relies on the creation of voice engines able to translate graphemes (small text data) into phonemes (small audio data). In order to sound like a human voice, machine learning is used to find the evaluate and choose the most appropriate way to pronounce words and sentences. With the addition of SSML (Speech Synthesis Markup Language), customization can go far beyond that (pitch, timbre, level, speed…).</sub><br />
+    <br />
+    **What is Text-To-Speech?**<br />
+    <sub>Text-to-Speech (also known as TTS, speech or voice synthesis) produces voices from text as its name would suggest. This technology relies on the creation of voice engines able to translate graphemes (small text data) into phonemes (small audio data). In order to sound like a human voice, machine learning is used to find the evaluate and choose the most appropriate way to pronounce words and sentences. With the addition of SSML (Speech Synthesis Markup Language), customization can go far beyond that (pitch, timbre, level, speed…).</sub><br />
+    <br />
+    
+    
+    
+    
+    
+
+
+
     </p></details>
 
 - [ ] Add delight to the experience when all tasks are complete :tada:
