@@ -26,7 +26,7 @@
 ---
 ### About
 
-**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by Mr. Shahad. P (Asst.Professor, Dept.of Artificial Intelligence & Data Science, Madanapalle Institute Of Technology & Science)**
+**Our Destiny Research & Development Labs (ODRDLabs) is a startup from Kerala - India, in its early phase. The first baby steps taken by the founders were back in July 2013, beginning with Project JARVIS. The inspiration from this little project led the founders to the creation & evolution of Project Our Destiny in 2019. The team started with two and now crossed the strength of 10+ contributors. The well-disciplined and consistent team is guided and mentored efficiently by [Mr. Shahad. P](https://www.linkedin.com/in/shahad-p-b45b4b1b1/) (Asst.Professor, Dept.of Artificial Intelligence & Data Science, Madanapalle Institute Of Technology & Science)** 
 
 ---
 ---
@@ -127,12 +127,17 @@ He even believes that, instead of being terrifying, these possibilities are thri
     **Our Proposed Solution :** <br /><sub> 
      - Design an isolated system capable of running completely offline (Without Internet).</sub>
     </p></details>
+    
+
+
+
 
 - [x] **A rule based PA(Personal Assistance System).**<details><summary>Know more</summary><p><br />
     **What is a Rule-Based System?** <br />
     <sub>A rule-based system is a system that applies human-made rules to store, sort and manipulate data. In doing so, it mimics human intelligence. 
         Rule-based systems require a set of facts or source of data, and a set of rules for manipulating that data. These rules are sometimes referred to as ‘If statements’ as they tend to follow the line of ‘IF X happens THEN do Y’.  **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
     <br />
+    
     **What are the characteristics of rule-based systems?** <br /><sub> 
     - <sub>They are made up of the combined knowledge of human experts in the problem domain.</sub>
     - <sub>They represent knowledge in a very declarative manner.</sub>
@@ -148,7 +153,16 @@ He even believes that, instead of being terrifying, these possibilities are thri
         These rules most often take the form of "if" statements. "IF" outlines the trigger, "THEN" specifies the action to complete. So, if you want to create a rule-based system capable of handling 100 different actions, you’d have to write 100 different rules. If you want to then update the system and add actions, then you would need to write new rules.
         In short, you use rules to tell a machine what to do, and the machine will do exactly as you tell it. From there, rule-based systems will execute the actions until you tell it to stop.
         But remember: if you tell it to do something incorrectly, it will do it incorrectly.  **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
+    <br />
+    **What we have created?** <br />
+    <sub>We have designed a rule-based PA system using NLTK (an NLP Tool kit) capable of recognizing user commands and replying like a chatbot. Our design is not just a chatbot but a chat engine capable of executing tasks from user conversations. This PA system uses a complicated decision engine called the Neural Scheme created by mimicking human decision-making. **[In a nutshell perception. For more details please go through our research paper.]** </sub><br />
     </p></details>
+
+
+
+
+
+
 
 - [x] **Automating Operating Systems.**<details><summary>Know more</summary><p><br />
     **What is Automation and Automating an Operating System?**<br />
@@ -169,7 +183,13 @@ He even believes that, instead of being terrifying, these possibilities are thri
     - <sub>Android</sub>
     - <sub>Arch Linux</sub>
     </p></details>
-    
+
+
+
+
+
+
+
 - [x] **Offline Speech Recognition & Text-To-Speech.**<details><summary>Know more</summary><p><br />
     **What is Speech Recognition (or) Speech-To-Text?**<br />
     <sub>Speech recognition, or speech-to-text, is the ability of a machine or program to identify words spoken aloud and convert them into readable text. Rudimentary speech recognition software has a limited vocabulary and may only identify words and phrases when spoken clearly. More sophisticated software can handle natural speech, different accents and various languages. Speech recognition uses a broad array of research in computer science, linguistics and computer engineering. Many modern devices and text-focused programs have speech recognition functions in them to allow for easier or hands-free use of a device. ***Offline speech recognition is a voice recognition system with the ability to recognize the voice and deliver data from it. The system works offline meaning you do not need an internet connection to use it.***</sub><br />
@@ -177,26 +197,28 @@ He even believes that, instead of being terrifying, these possibilities are thri
     **What is Text-To-Speech?**<br />
     <sub>Text-to-Speech (also known as TTS, speech or voice synthesis) produces voices from text as its name would suggest. This technology relies on the creation of voice engines able to translate graphemes (small text data) into phonemes (small audio data). In order to sound like a human voice, machine learning is used to find the evaluate and choose the most appropriate way to pronounce words and sentences. With the addition of SSML (Speech Synthesis Markup Language), customization can go far beyond that (pitch, timbre, level, speed…).</sub><br />
     <br />
-    
-    
-    
-    
-    
-
-
-
+    **What is the need of Speech-To-Text & Text-To-Speech for us here?**<br />
+    <sub>In this Autonomous A.A.I(Augmented Artificial Intelligence) program, we use Offline Speech-To-Text engine as an ASR(Automated Speech Recognition) engine that acts as input for Destiny. The user input after processing is generated with certain responses that are to be spoken. We use Offline Text-To-Speech as an engine for speech output.</sub><br />
+    <br />
     </p></details>
 
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] **Computer Vision For Automation.**<details><summary>Know more</summary><p><br />
+    **What is Computer Vision?**<br />
+    <sub>Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand. <br />Computer vision works much the same as human vision, except humans have a head start. Human sight has the advantage of lifetimes of context to train how to tell objects apart, how far away they are, whether they are moving and whether there is something wrong in an image.<br /> Computer vision trains machines to perform these functions, but it has to do it in much less time with cameras, data and algorithms rather than retinas, optic nerves and a visual cortex. Because a system trained to inspect products or watch a production asset can analyze thousands of products or processes a minute, noticing imperceptible defects or issues, it can quickly surpass human capabilities. Computer vision is used in industries ranging from energy and utilities to manufacturing and automotive – and the market is continuing to grow</sub><br />
+    <br />
+    **What is Automation using Computer Vision?**<br />
+    <sub>Defined as the combination of Robotic Process Automation (RPA) and artificial intelligence (AI), intelligent automation can process unstructured and semi-structured data to automate end-to-end business processes and learn to increasingly improve performance as more data is fed into it.</sub><br />
+    <br />
+    **What we have forged using this technology?**<br />
+    <sub>We have created an advanced and intelligent automation extension for Destiny capable of utilizing Open-CV as its own eyes to look across the monitor to extract more sophisticated data & gives a flexible opportunity for enhancing Destiny's system automation functions.</sub><br />
+    <br />
+    
+    </p></details>
 
 
 ---
 ---
 
-
-
----
----
 
 ## What are the threats that we possess in this modern world? <img src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/PrivacyIco.gif" width="40px">
 
@@ -259,7 +281,7 @@ Below is the speaking animation.
 
 ## Connect with me:
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-odrdl)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahad-p-b45b4b1b1/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
 
 ### If You Love My Works, Do Like To Follow And Support💖
