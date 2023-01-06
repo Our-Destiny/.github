@@ -99,12 +99,34 @@ He even believes that, instead of being terrifying, these possibilities are thri
 ---
 ---
 
+
+
+
+
+
+
 ## Mission
 
-- 
+- Create a Reliable and Network Independent Personal Assistance Program.
+  - Simple Rule-Based Personal Assistance Program.(Jarvis)
+  - Home Automation using PA System.(Using Jarvis)
+- Create an Intelligent Cybernetics Program for The System Dependability Problem
+  - Intelligent Personal Assistance System.(Destiny)
+  - Autonomous Decision making for home automation systems using Destiny.
+  - Deep user sentimental & emotional analysis for advanced conversation control in Destiny.
+- Ensure user's personal Data Integrity.
+- Improve user's personal Data Security.
+- Infrastructure Enhancement.
+- Military Enhancement.
 
 ---
 ---
+
+
+
+
+
+
 
 
 ## Achievements
