@@ -134,7 +134,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
    
    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
-   <h3 align="center">Team 𝙏𝙝𝙚 𝙁𝙖𝙡𝙡𝙚𝙣 𝘼𝙣𝙜𝙚𝙡𝙨 has secured the 𝙁𝙄𝙍𝙎𝙏 𝙍𝙐𝙉𝙉𝙀𝙍 𝙐𝙋 𝘼𝙒𝘼𝙍𝘿 for the project<br /></h3>
+   <h3 align="justify">Team 𝙏𝙝𝙚 𝙁𝙖𝙡𝙡𝙚𝙣 𝘼𝙣𝙜𝙚𝙡𝙨 has secured the 𝙁𝙄𝙍𝙎𝙏 𝙍𝙐𝙉𝙉𝙀𝙍 𝙐𝙋 𝘼𝙒𝘼𝙍𝘿 for the project :<br /></h3>
    
    > Stream Data Analyzer Plug-in For Destiny (An Autonomous Artificial Intelligence Based Digital Assistant) Integrated Into Home Automation,
    
