@@ -143,7 +143,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
    
    <details><summary>Read more...</summary>
    <p>
-    INCOMPLETE - UNDER Maintainance  
+    INCOMPLETE - UNDER Maintainance.
    </p>
    </details>
 
