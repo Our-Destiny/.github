@@ -149,7 +149,18 @@ InApp is a commitment personified, a value upheld and a passion shared. Founded 
 
 <h3>APJ Abdul Kalam Technological University</h3>
 
-APJ Abdul Kalam Technological University (initially Kerala Technological University),a State Government University has come into existence on May 21, 2014 with an aim to give leadership to the technology related policy formulation and Engineering Planning for the State. It also emphaziess to improve the academic standards of the Graduate, Post Graduate and Research Programmes in Engineering Science, Technology and Management and regulate the academic standards of all colleges affiliated to the University. The main thrust areas of the University are Research,Development and Innovation. For more information [click here](https://inapp.com/)
+APJ Abdul Kalam Technological University (initially Kerala Technological University),a State Government University has come into existence on May 21, 2014 with an aim to give leadership to the technology related policy formulation and Engineering Planning for the State. It also emphaziess to improve the academic standards of the Graduate, Post Graduate and Research Programmes in Engineering Science, Technology and Management and regulate the academic standards of all colleges affiliated to the University. The main thrust areas of the University are Research,Development and Innovation. For more information [click here](https://ktu.edu.in/home.htm)
+
+<h3>CSI – InApp Awards</h3>
+
+CSI – InApp Awards was established with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. We have participated in the 11th CSI-InApp Awards. They started off with 700+ Entries and down to the Top 13 Teams. The final evaluation took place on 16 - 17th July 2022.
+
+<h3>Prizes</h3>
+
+First Prize: Award Instrument and Rs 50,000</br>
+Consolation Prize: Award Instrument and Rs 25,000</br>
+Placement Opportunities and Cash Prizes for all Finalists!</br>
+
     
    </p>
    </details>
