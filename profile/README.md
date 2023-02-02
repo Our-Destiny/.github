@@ -137,10 +137,15 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
    
    
-   <details><summary>Read more...</summary>
-   <p>
-   ---
-    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a>
+   <details><summary>Know more...</summary>
+   <p><br /><a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a><br />
+    <h3>Computer Society of India (CSI)</h3>
+
+The Computer Society of India (CSI) is the largest association of information technology professionals in India, with over 1,00,000 members comprising software developers, scientists, academicians, project managers, CIOs, CTOs and IT vendors, among others. The society has 73 chapters all over India. Being closely associated with students, the Society has developed a well-established network of 500 student branches. The purposes of the Society are scientific and educational, directed towards the advancement of the theory and practice of Computer Science & IT. For more information [click here](https://csiindia.org/)
+    
+    <br /><h3>InApp Information Technologies</h3>
+
+InApp is a commitment personified, a value upheld and a passion shared. Founded in 2000 by a group of promoters with several years of Big 5 consulting experience and a great shared dream to pursue, InApp prides itself as a technology services company. With offices in USA, India, Japan and a 200+ strong team, InApp has built a solid client base ranging from Fortune 500 companies to SMBs. For more information [click here](https://inapp.com/)
    </p>
    </details>
 
