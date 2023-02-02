@@ -117,7 +117,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
   - Deep user sentimental & emotional analysis for advanced conversation control in Destiny.
 - Ensure user's personal Data Integrity.
 - Improve user's personal Data Security.
-- Infrastructure Enhancement.
+- Universal Infrastructure Enhancement.
 - Military Enhancement.
 
 ---
@@ -252,7 +252,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
     **What is Text-To-Speech?**<br />
     <sub>Text-to-Speech (also known as TTS, speech or voice synthesis) produces voices from text as its name would suggest. This technology relies on the creation of voice engines able to translate graphemes (small text data) into phonemes (small audio data). In order to sound like a human voice, machine learning is used to find the evaluate and choose the most appropriate way to pronounce words and sentences. With the addition of SSML (Speech Synthesis Markup Language), customization can go far beyond that (pitch, timbre, level, speed…).</sub><br />
     <br />
-    **What is the need of Speech-To-Text & Text-To-Speech for us here?**<br />
+    **What is the need of Offline Speech-To-Text & Text-To-Speech for us here?**<br />
     <sub>In this Autonomous A.A.I(Augmented Artificial Intelligence) program, we use Offline Speech-To-Text engine as an ASR(Automated Speech Recognition) engine that acts as input for Destiny. The user input after processing is generated with certain responses that are to be spoken. We use Offline Text-To-Speech as an engine for speech output.</sub><br />
     <br />
     </p></details>
