@@ -139,7 +139,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
    
    <details><summary>Read more...</summary>
    <p>
-    INCOMPLETE - UNDER Maintainance.
+    <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/FALLEN_AWARDS_THUMB.png" height="175px"/></a>
    </p>
    </details>
 
