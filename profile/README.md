@@ -68,10 +68,10 @@ Compared to robots, we humans are pretty clunky. Limited by the slow pace of evo
     
 A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that
 
-<a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RougeRobot.png" height="175px"/></a>
-
 > **“The real risk with AI isn’t malice but competence. A superintelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned with ours, we’re in trouble.”** <br />
 > **“You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,”** Hawking writes. <br />
+
+<a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RougeRobot.png" height="175px"/></a>
 
 For those still unpersuaded, he suggests a different metaphor. ***“Why are we so worried about AI? Surely humans are always able to pull the plug?”*** a hypothetical person asks him.
 Hawking answers: ***“People asked a computer, ‘Is there a God?’ And the computer said, ‘There is now,’ and fused the plug.”***
