@@ -80,9 +80,13 @@ Hawking answers: ***“People asked a computer, ‘Is there a God?’ And the co
     <br />
     ***As capabilities in these areas and others cross the threshold from laboratory research to economically valuable technologies, a virtuous cycle takes hold whereby even small improvements in performance are worth large sums of money, prompting greater investments in research. There is now a broad consensus that AI research is progressing steadily, and that its impact on society is likely to increase…. Because of the great potential of AI, it is important to research how to reap its benefits while avoiding potential pitfalls.*** - From Research Priorities for Robust and Beneficial Artificial Intelligence, an open letter co-signed by Hawking, January 2015.
 > Read more on this [Wikipedia Page](https://en.wikipedia.org/wiki/Open_Letter_on_Artificial_Intelligence)
-    
+
+<a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/NuclearConfrontation.png" height="175px"/></a>
+
 If it’s not the robots, it is ***“almost inevitable that either a nuclear confrontation or environmental catastrophe will cripple the Earth at some point in the next 1,000 years,”*** Hawking writes. <br />
-    
+
+<a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/NaturalCatastrophe.png" height="175px"/></a>
+
 In fact, we might not have a future at all, he says, warning us not to put all our eggs ***“in one basket.”*** And yes, that basket is planet Earth. Even if humans figure out a way escape, ***“the millions of species that inhabit the Earth”*** will be doomed, he says. ***“And that will be on our conscience as a race.”*** <br />
     
 Another warning isn’t any less menacing. We are entering a new phase of ***“self-designed evolution.”*** This stage means we will soon be able to cast off the chains of traditional evolution and start changing and improving our own DNA now — not in hundreds of thousands of years. <br />
