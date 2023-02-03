@@ -156,7 +156,7 @@ He even believes that, instead of being terrifying, these possibilities are thri
    <hr></hr>
 <h3>CSI – InApp Awards</h3>
 
-CSI – InApp Awards was established with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. We have participated in the 11th CSI-InApp Awards. They started off with 700+ Entries and down to the Top 13 Teams. The final evaluation took place on 16 - 17th July 2022. The event process lasted 7 months.
+CSI – InApp Awards was established with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. We have participated in the 11th CSI-InApp Awards. They started off with 700+ Entries and down to the Top 13 Teams. The final evaluation took place on 16 - 17th July 2022. The event process lasted 7 months. [To Watch Our Presentation Video Click Here](https://drive.google.com/file/d/1jCZf19fI8JJs8_fT4yolpTD8onlzUD2S/view?usp=sharing)
 
 <h3>Computer Society of India (CSI)</h3>
 
