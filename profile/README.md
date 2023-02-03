@@ -56,7 +56,7 @@
 
 
 <details><summary>Know more about our derivation...</summary>
-<p><hr></hr><a href=""><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/HawkinsLookingAtDestiny.png" height="175px"/></a>
+<p><hr></hr><a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/HawkinsLookingAtDestiny.png" height="175px"/></a>
 
 Artificial intelligence holds great opportunity for humanity, encompassing everything from Google’s algorithms to self-driving cars to facial recognition software. The AI we have today, however, is still in its primitive stages. Experts worry about what will happen when that intelligence outpaces us. Or, as **Hawking puts it, “Whereas the short-term impact of AI depends on who controls it, the long-term impact depends on whether it can be controlled at all.”**
 
@@ -67,6 +67,9 @@ This might sound like the stuff of science fiction, but Hawking says dismissing 
 Compared to robots, we humans are pretty clunky. Limited by the slow pace of evolution, it takes us generations to iterate. Robots, on the other hand, can improve upon their own design a lot faster, and soon, they’ll probably be able to do so without our help. Hawking says this will create an **“intelligence explosion”** in which machines could exceed our intelligence **“by more than ours exceeds that of snails.”** <br />
     
 A lot of people think that the threat of AI centers on it becoming malevolent rather than benevolent. Hawking disabuses us of this concern, saying that
+
+<a href="no"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RougeRobot.png" height="175px"/></a>
+
 > **“The real risk with AI isn’t malice but competence. A superintelligent AI will be extremely good at accomplishing its goals, and if those goals aren’t aligned with ours, we’re in trouble.”** <br />
 > **“You’re probably not an evil ant-hater who steps on ants out of malice, but if you’re in charge of a hydroelectric green-energy project and there’s an anthill in the region to be flooded, too bad for the ants. Let’s not place humanity in the position of those ants,”** Hawking writes. <br />
 
@@ -92,7 +95,7 @@ If that all sounds pretty depressing, it is. But even as Hawking serves up an ap
 
 He even believes that, instead of being terrifying, these possibilities are thrilling and that it **“greatly increases the chances of inspiring the new Einstein. Wherever she might be.”** <br />
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/Tillinfinityandbeyond.png" height="175px"/></a>
+<a href="#vision"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/Tillinfinityandbeyond.png" height="175px"/></a>
 
 
 
