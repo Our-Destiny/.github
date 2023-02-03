@@ -93,6 +93,8 @@ Another warning isn’t any less menacing. We are entering a new phase of ***“
     
 As with AI, the ability to edit our own DNA holds the potential to fix humanity’s greatest problems. First, and likely not in the distant future, we’ll be able to repair genetic defects, editing out genes for things like muscular dystrophy and amyotrophic lateral sclerosis, or ALS, the disease he was diagnosed with in 1963. Hawking says that within this century, we’ll be able to edit intelligence, memory, and length of life. And that’s when things could get really complicated. <br />
 
+<a href="#vision"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/Suphumans.png" height="175px"/></a>
+
 Hawking calls the people who will do this **“superhumans,”** and they’re likely to be the world’s wealthy elites. Regular old humans won’t be able to compete, and will probably **“die out, or become unimportant.”** At the same time, superhumans will likely be **“colonizing other planets and stars.”** <br />
 
 If that all sounds pretty depressing, it is. But even as Hawking serves up an apocalyptic prognosis for the planet and everyone on it, his brand of optimism comes through. He has faith that **“our ingenious race will have found a way to slip the surly bonds of Earth and will therefore survive the disaster.”** <br />
