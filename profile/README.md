@@ -143,7 +143,11 @@ He even believes that, instead of being terrifying, these possibilities are thri
    <p><hr></hr><a href=""><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/CSIAW_Wall.png" height="175px"/></a><br />
    <h3 align="center">Team 𝗧𝗵𝗲 𝗙𝗮𝗹𝗹𝗲𝗻 𝗔𝗻𝗴𝗲𝗹𝘀 has secured the 𝗙𝗜𝗥𝗦𝗧 𝗥𝗨𝗡𝗡𝗘𝗥 𝗨𝗣 𝗔𝗪𝗔𝗥𝗗 for the project "𝗦𝘁𝗿𝗲𝗮𝗺 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘇𝗲𝗿 𝗣𝗹𝘂𝗴-𝗜𝗻 𝗙𝗼𝗿 𝗗𝗲𝘀𝘁𝗶𝗻𝘆 (𝗔𝗻 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗕𝗮𝘀𝗲𝗱 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁) 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗜𝗻𝘁𝗼 𝗛𝗼𝗺𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻." Mentored By 𝗠𝗿.𝗦𝗵𝗮𝗵𝗮𝗱 𝗣 (Former Assistant Professor of MEA Engineering College) in the 𝟭𝟭𝘁𝗵 𝗖𝗦𝗜-𝗜𝗡𝗔𝗣𝗣 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟮𝟮</h3>
    <hr></hr>
-    <h3>Computer Society of India (CSI)</h3>
+<h3>CSI – InApp Awards</h3>
+
+CSI – InApp Awards was established with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. We have participated in the 11th CSI-InApp Awards. They started off with 700+ Entries and down to the Top 13 Teams. The final evaluation took place on 16 - 17th July 2022. The event process lasted 7 months.
+
+<h3>Computer Society of India (CSI)</h3>
 
 The Computer Society of India (CSI) is the largest association of information technology professionals in India, with over 1,00,000 members comprising software developers, scientists, academicians, project managers, CIOs, CTOs and IT vendors, among others. The society has 73 chapters all over India. Being closely associated with students, the Society has developed a well-established network of 500 student branches. The purposes of the Society are scientific and educational, directed towards the advancement of the theory and practice of Computer Science & IT. For more information [click here](https://csiindia.org/)
 
@@ -154,10 +158,6 @@ InApp is a commitment personified, a value upheld and a passion shared. Founded 
 <h3>APJ Abdul Kalam Technological University</h3>
 
 APJ Abdul Kalam Technological University (initially Kerala Technological University),a State Government University has come into existence on May 21, 2014 with an aim to give leadership to the technology related policy formulation and Engineering Planning for the State. It also emphaziess to improve the academic standards of the Graduate, Post Graduate and Research Programmes in Engineering Science, Technology and Management and regulate the academic standards of all colleges affiliated to the University. The main thrust areas of the University are Research,Development and Innovation. For more information [click here](https://ktu.edu.in/home.htm)
-
-<h3>CSI – InApp Awards</h3>
-
-CSI – InApp Awards was established with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. We have participated in the 11th CSI-InApp Awards. They started off with 700+ Entries and down to the Top 13 Teams. The final evaluation took place on 16 - 17th July 2022. The evaluation process lasted 7 months.
 
 <h3>Prizes</h3>
 
