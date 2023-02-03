@@ -299,6 +299,8 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 ## Team
 
+<a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheFallenAngelsBG.png" height="175px"/></a>
+
 ---
 ---
 
