@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align="justify"><details><summary>“𝑻𝒉𝒆 𝒑𝒂𝒔𝒕, 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆, 𝒊𝒔 𝒊𝒏𝒅𝒆𝒇𝒊𝒏𝒊𝒕𝒆 𝒂𝒏𝒅 𝒆𝒙𝒊𝒔𝒕𝒔 𝒐𝒏𝒍𝒚 𝒂𝒔 𝒂 𝒔𝒑𝒆𝒄𝒕𝒓𝒖𝒎 𝒐𝒇 𝒑𝒐𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔.” <h5 align="center"> - Stephan Hawkins</h5></summary>
+<h3 align="justify"><details><summary><em>“The past, like the future, is indefinite and exists only as a spectrum of possibilities”</em><h5 align="center"> - Stephan Hawkins</h5></summary>
     <p><h4><sub><em>From these inspiring words of Stephen Hawkins, We see how important living presently really is. As we live day by day, we are in charge of the limitless possibilities. We have the power to do things so great, but these things are only accomplished in the now. We can look to the past, seeing the possibilities that were presented and think of the possibilities to come in the future. Right now, we're given the great opportunity of life to go out and do something. This is what we did with ours...</em></sub></h4></p></details>
 </h3>
 
