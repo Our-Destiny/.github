@@ -12,7 +12,7 @@
 
 
 <h3 align="justify"><details><summary>“𝑻𝒉𝒆 𝒑𝒂𝒔𝒕, 𝒍𝒊𝒌𝒆 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆, 𝒊𝒔 𝒊𝒏𝒅𝒆𝒇𝒊𝒏𝒊𝒕𝒆 𝒂𝒏𝒅 𝒆𝒙𝒊𝒔𝒕𝒔 𝒐𝒏𝒍𝒚 𝒂𝒔 𝒂 𝒔𝒑𝒆𝒄𝒕𝒓𝒖𝒎 𝒐𝒇 𝒑𝒐𝒔𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔.” <h5 align="center"> - Stephan Hawkins</h5></summary>
-    <p><h6><sub>𝙁𝙧𝙤𝙢 𝙩𝙝𝙚𝙨𝙚 𝙞𝙣𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝙬𝙤𝙧𝙙𝙨 𝙤𝙛 𝙎𝙩𝙚𝙥𝙝𝙖𝙣 𝙃𝙖𝙬𝙠𝙞𝙣𝙨, 𝙒𝙚 𝙨𝙚𝙚 𝙝𝙤𝙬 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙡𝙞𝙫𝙞𝙣𝙜 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙡𝙮 𝙧𝙚𝙖𝙡𝙡𝙮 𝙞𝙨. 𝘼𝙨 𝙬𝙚 𝙡𝙞𝙫𝙚 𝙙𝙖𝙮 𝙗𝙮 𝙙𝙖𝙮, 𝙬𝙚 𝙖𝙧𝙚 𝙞𝙣 𝙘𝙝𝙖𝙧𝙜𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙡𝙞𝙢𝙞𝙩𝙡𝙚𝙨𝙨 𝙥𝙤𝙨𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨. 𝙒𝙚 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙥𝙤𝙬𝙚𝙧 𝙩𝙤 𝙙𝙤 𝙩𝙝𝙞𝙣𝙜𝙨 𝙨𝙤 𝙜𝙧𝙚𝙖𝙩, 𝙗𝙪𝙩 𝙩𝙝𝙚𝙨𝙚 𝙩𝙝𝙞𝙣𝙜𝙨 𝙖𝙧𝙚 𝙤𝙣𝙡𝙮 𝙖𝙘𝙘𝙤𝙢𝙥𝙡𝙞𝙨𝙝𝙚𝙙 𝙞𝙣 𝙩𝙝𝙚 𝙣𝙤𝙬. 𝙒𝙚 𝙘𝙖𝙣 𝙡𝙤𝙤𝙠 𝙩𝙤 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩, 𝙨𝙚𝙚𝙞𝙣𝙜 𝙩𝙝𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙩𝙝𝙖𝙩 𝙬𝙚𝙧𝙚 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙚𝙙 𝙖𝙣𝙙 𝙩𝙝𝙞𝙣𝙠 𝙤𝙛 𝙩𝙝𝙚 𝙥𝙤𝙨𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙩𝙤 𝙘𝙤𝙢𝙚 𝙞𝙣 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚. 𝙍𝙞𝙜𝙝𝙩 𝙣𝙤𝙬, 𝙬𝙚’𝙧𝙚 𝙜𝙞𝙫𝙚𝙣 𝙩𝙝𝙚 𝙜𝙧𝙚𝙖𝙩 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙮 𝙤𝙛 𝙡𝙞𝙛𝙚 𝙩𝙤 𝙜𝙤 𝙤𝙪𝙩 𝙖𝙣𝙙 𝙙𝙤 𝙨𝙤𝙢𝙚𝙩𝙝𝙞𝙣𝙜. 𝙏𝙝𝙞𝙨 𝙞𝙨 𝙬𝙝𝙖𝙩 𝙬𝙚 𝙙𝙞𝙙 𝙬𝙞𝙩𝙝 𝙤𝙪𝙧𝙨...</sub></h6></p></details>
+    <p><h4><sub><em>From these inspiring words of Stephen Hawkins, We see how important living presently really is. As we live day by day, we are in charge of the limitless possibilities. We have the power to do things so great, but these things are only accomplished in the now. We can look to the past, seeing the possibilities that were presented and think of the possibilities to come in the future. Right now, we're given the great opportunity of life to go out and do something. This is what we did with ours...</em></sub></h4></p></details>
 </h3>
 
 ---
@@ -300,7 +300,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 ## Team
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheFallenAngelsBG.png" height="175px"/></a>
-> ***“Meet The Fallen Angels, And you might be wondering why the name ought to be The Fallen Angels. Let me break it down for you. Life can be difficult sometimes, and it gets bumpy. We all have battles to fight. And it's often in those battles that we are most alive: It's on the frontlines of our lives that we earn wisdom, create joy, forge friendships, discover happiness, find love, and do purposeful work. Hardships often prepare ordinary people for an extraordinary Destiny.”***
+> ***“Meet The Fallen Angels, And you might be wondering why the name ought to be The Fallen Angels. Let me break it down for you. Life can be difficult sometimes, and it gets bumpy. We all have battles to fight. And it's often in those battles that we are most alive: It's on the frontlines of our lives that we earn wisdom, create joy, forge friendships, discover happiness, find love, and do purposeful work. Hardships often prepare ordinary people for an extraordinary Destiny. What you are witnessing is the Destiny that they created from forging friendships through hardtimes.”***
 
 ---
 ---
