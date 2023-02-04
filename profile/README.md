@@ -140,11 +140,6 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 
 
-
-
-
-
-
 ## Achievements
 
    
@@ -305,7 +300,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 ## Team
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheFallenAngelsBG.png" height="175px"/></a>
-> ***“Redefine Artificial Intelligence to enhance humanity rather than becoming an existential threat.”***
+> ***“Meet the fallen angels, And you might be wondering why the name ought to be The Fallen Angels. Let me break it down for you. Life can be difficult sometimes, and it gets bumpy. We all have battles to fight. And it's often in those battles that we are most alive: It's on the frontlines of our lives that we earn wisdom, create joy, forge friendships, discover happiness, find love, and do purposeful work.”***
 
 ---
 ---
