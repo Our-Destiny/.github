@@ -301,6 +301,13 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheFallenAngelsBG.png" height="175px"/></a>
 > <h4 align="center">The Wings of Faith And Hope</h4>
+***
+<p align="Center"><strong><u>Meet The Fallen Angels</u></strong></p>
+
+
+* [Mr.Shahad P](https://example.com) : Mentor & President
+* [M.S.Hariprasad](https://example.com) : Founder & CEO
+* [Ribin Baby](https://example.com) : Co-Founder & CEO
 
 ---
 ---
@@ -311,12 +318,8 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 
 ---
-## Technologies
-***
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+---
+
 
 
 
