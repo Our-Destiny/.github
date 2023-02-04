@@ -123,17 +123,17 @@ He even believes that, instead of being terrifying, these possibilities are thri
 
 ## Mission
 
-- Create a Reliable and Network Independent Personal Assistance Program.
-  - Simple Rule-Based Personal Assistance Program.(Jarvis)
-  - Home Automation using PA System.(Using Jarvis)
-- Create an Intelligent Cybernetics Program for The System Dependability Problem
-  - Intelligent Personal Assistance System.(Destiny)
-  - Autonomous Decision making for home automation systems using Destiny.
-  - Deep user sentimental & emotional analysis for advanced conversation control in Destiny.
-- Ensure user's personal Data Integrity.
-- Improve user's personal Data Security.
-- Universal Infrastructure Enhancement.
-- Military Enhancement.
+- <strong>Create a Reliable and Network Independent Personal Assistance Program.</strong>
+  - <strong>Simple Rule-Based Personal Assistance Program.(Jarvis)</strong>
+  - <strong>Home Automation using PA System.(Using Jarvis)</strong>
+- <strong>Create an Intelligent Cybernetics Program for The System Dependability Problem</strong>
+  - <strong>Intelligent Personal Assistance System.(Destiny)</strong>
+  - <strong>Autonomous Decision making for home automation systems using Destiny.</strong>
+  - <strong>Deep user sentimental & emotional analysis for advanced conversation control in Destiny.</strong>
+- <strong>Ensure user's personal Data Integrity.</strong>
+- <strong>Improve user's personal Data Security.</strong>
+- <strong>Universal Infrastructure Enhancement.</strong>
+- <strong>Military Enhancement.</strong>
 
 ---
 ---
@@ -310,6 +310,13 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 
 
+---
+## Technologies
+***
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
 
 
 
