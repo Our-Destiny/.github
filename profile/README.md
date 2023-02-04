@@ -307,7 +307,9 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 * [Mr.Shahad P](https://example.com) : Mentor & President
 * [M.S.Hariprasad](https://example.com) : Founder & CEO
-* [Ribin Baby](https://example.com) : Co-Founder & CEO
+* [Ribin Baby](https://example.com) : Co-Founder & Co-CEO
+* [Nikhil Krishnan T](https://example.com) : Chief operating officer (COO)
+* [Deepak M](https://example.com) : Chief operating officer (COO)
 
 ---
 ---
