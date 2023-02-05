@@ -313,7 +313,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 * [Ajith Sagar](https://example.com) : Chief technology officer (CTO)
 * [Sooraj.S.R](https://example.com) : Chief financial officer (CFO)
 * [Prasanth.K.J](https://example.com) : Chief financial officer (CFO)
-* [Ajith Manikandan](https://example.com) : Chief marketing officer (CMO)
+* [Ajith Manikandan](https://example.com) : Chief financial officer (CFO)
 * [Shana Jasila](https://example.com) : Chief marketing officer (CMO)
 * [Rahiyanath](https://example.com) : Chief marketing officer (CMO)
 
