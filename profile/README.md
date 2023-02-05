@@ -306,14 +306,15 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 
 * [Mr.Shahad P](https://example.com) : **Mentor & President**
-* [M.S.Hariprasad](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
-* [Ribin Baby](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
+* [M.S.Hariprasad](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast | **Founder**
+* [Ribin Baby](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast | **Co-Founder**
 * [Neeraj.P](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
 * [Nikhil Krishnan T](https://example.com) : Python Dev | Designer | Data Science Enthusisast
 * [Deepak M](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
 * [Ajith Sagar](https://example.com) : Python Dev | Automation Engineer
 * [Sooraj.S.R](https://example.com) : Python Dev | Automation Engineer 
 * [Ajith Manikandan](https://example.com) : Python Dev | Automation Engineer
+* [Surya.A.S](https://example.com) : Python Dev | Designer
 * [Shana Jasila](https://example.com) : Web Dev | Designer 
 * [Rahiyanath](https://example.com) : Web Dev
 * [Abhinav.A.R](https://example.com) : Jr.Python Dev
