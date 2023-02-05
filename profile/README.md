@@ -317,22 +317,11 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 * [Surya.A.S](https://example.com) : Python Dev | Designer
 * [Shana Jasila](https://www.linkedin.com/in/shanajasila/) : Web Dev | Designer 
 * [Rahiyanath](https://example.com) : Web Dev
-* [Abhinav.A.R](https://example.com) : Jr.Python Dev
+* [Abhinav.A.R](https://www.linkedin.com/in/abhinav-a-r-724933264/) : Jr.Python Dev
 
 
 ---
 ---
-
-
-# This is not the final preview about us and our works. The Project Details(With Specific Version Control Details) and this Readme is still under maintainance. So Stay tuned. Thank you for visiting.
-
-
-
----
----
-
-
-
 
 ### Connect with us:
 
