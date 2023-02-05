@@ -305,17 +305,17 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 <p align="Center"><strong><u>Meet The Fallen Angels</u></strong></p>
 
 
-* [Mr.Shahad P](https://example.com) : Mentor & President
+* [Mr.Shahad P](https://example.com) : **Mentor & President**
 * [M.S.Hariprasad](https://example.com) : Founder & CEO
 * [Ribin Baby](https://example.com) : Co-Founder & Co-CEO
-* [Nikhil Krishnan T](https://example.com) : Chief operating officer (COO)
-* [Deepak M](https://example.com) : Chief operating officer (COO)
-* [Ajith Sagar](https://example.com) : Chief technology officer (CTO)
-* [Sooraj.S.R](https://example.com) : Chief financial officer (CFO)
-* [Prasanth.K.J](https://example.com) : Chief financial officer (CFO)
-* [Ajith Manikandan](https://example.com) : Chief financial officer (CFO)
-* [Shana Jasila](https://example.com) : Chief marketing officer (CMO)
-* [Rahiyanath](https://example.com) : Chief marketing officer (CMO)
+* [Nikhil Krishnan T](https://example.com) : 
+* [Deepak M](https://example.com) : 
+* [Ajith Sagar](https://example.com) : 
+* [Sooraj.S.R](https://example.com) : 
+* [Prasanth.K.J](https://example.com) : 
+* [Ajith Manikandan](https://example.com) : 
+* [Shana Jasila](https://example.com) : 
+* [Rahiyanath](https://example.com) : 
 
 
 ---
