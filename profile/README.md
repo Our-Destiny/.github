@@ -305,17 +305,17 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 <p align="Center"><strong><u>Meet The Fallen Angels</u></strong></p>
 
 
-* [Mr.Shahad P](https://example.com) : **Mentor & President**
-* [M.S.Hariprasad](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast | **Founder**
-* [Ribin Baby](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast | **Co-Founder**
-* [Neeraj.P](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
-* [Nikhil Krishnan T](https://example.com) : Python Dev | Designer | Data Science Enthusisast
-* [Deepak M](https://example.com) : Python Dev | AI Dev | Data Science Enthusiast
-* [Ajith Sagar](https://example.com) : Python Dev | Automation Engineer
+* [Mr.Shahad P](https://www.linkedin.com/in/shahad-p-b45b4b1b1/) : **Mentor & President**
+* [M.S.Hariprasad](https://www.linkedin.com/in/hari-odrdl/) : Python Dev | AI Dev | Data Science Enthusiast | **Founder**
+* [Ribin Baby](https://www.linkedin.com/in/ribin-baby/) : Python Dev | AI Dev | Data Science Enthusiast | **Co-Founder**
+* [Neeraj.P](https://www.linkedin.com/in/neeraj-palliyali/) : Python Dev | AI Dev | Data Science Enthusiast
+* [Nikhil Krishnan T](https://www.linkedin.com/in/nikhil-krishnan-odrdl/) : Python Dev | Designer | Data Science Enthusisast
+* [Deepak M](https://www.linkedin.com/in/deepak-odrdl/) : Python Dev | AI Dev | Data Science Enthusiast
+* [Ajith Sagar](https://example.com) : Python Dev | Automation Engineer | Designer
 * [Sooraj.S.R](https://example.com) : Python Dev | Automation Engineer 
-* [Ajith Manikandan](https://example.com) : Python Dev | Automation Engineer
+* [Ajith Manikandan](https://www.linkedin.com/in/aji81/) : Python Dev | Automation Engineer
 * [Surya.A.S](https://example.com) : Python Dev | Designer
-* [Shana Jasila](https://example.com) : Web Dev | Designer 
+* [Shana Jasila](https://www.linkedin.com/in/shanajasila/) : Web Dev | Designer 
 * [Rahiyanath](https://example.com) : Web Dev
 * [Abhinav.A.R](https://example.com) : Jr.Python Dev
 
