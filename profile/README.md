@@ -173,6 +173,8 @@ First Prize: Award Instrument and Rs 50,000</br>
 Consolation Prize: Award Instrument and Rs 25,000</br>
 Placement Opportunities and Cash Prizes for all Finalists!</br>
 
+<p align="Center"><strong><u>Meet The Fallen Angels</u></strong></p>
+
 
     
    </p>
