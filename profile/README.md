@@ -311,7 +311,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 * [M.S.Hariprasad](https://www.linkedin.com/in/hari-odrdl/) : Python Dev | AI Dev | Data Science Enthusiast | **Founder**
 * [Ribin Baby](https://www.linkedin.com/in/ribin-baby/) : Python Dev | AI Dev | Data Science Enthusiast | **Co-Founder**
 * [Neeraj.P](https://www.linkedin.com/in/neeraj-palliyali/) : Python Dev | AI Dev | Data Science Enthusiast
-* [Nikhil Krishnan T](https://www.linkedin.com/in/nikhil-krishnan-odrdl/) : Python Dev | Designer | Data Science Enthusisast
+* [Nikhil Krishnan T](https://www.linkedin.com/in/nikhil-krishnan-odrdl/) : Python Dev | Designer | Data Science Enthusiast
 * [Deepak M](https://www.linkedin.com/in/deepak-odrdl/) : Python Dev | AI Dev | Data Science Enthusiast
 * [Ajith Sagar](https://example.com) : Python Dev | Automation Engineer | Designer
 * [Sooraj.S.R](https://example.com) : Python Dev | Automation Engineer 
