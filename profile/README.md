@@ -290,6 +290,10 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 ---
 
 ## Evolutions
+
+> **Disclaimer :**
+> `Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have by far and are yet to be completed. Thank You.`
+
 **Under Maintainance -  Stay Tuned to Know More...**
 
 
