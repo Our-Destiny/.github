@@ -174,6 +174,7 @@ Consolation Prize: Award Instrument and Rs 25,000</br>
 Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 <p align="Center"><strong><u>Lessons we have learned during this achievement</u></strong></p>
+<a href="#team"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/Helping-Crew.png" height="175px"/></a>
 
 
     
