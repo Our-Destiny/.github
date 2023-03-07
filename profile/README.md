@@ -173,8 +173,9 @@ First Prize: Award Instrument and Rs 50,000</br>
 Consolation Prize: Award Instrument and Rs 25,000</br>
 Placement Opportunities and Cash Prizes for all Finalists!</br>
 
-<p align="Center"><strong><u>Lessons we have learned during this achievement</u></strong></p>
+</br><h3 align="Center"><strong><u>Lessons we have learned during this achievement</u></strong></h3></br>
 <a href="#team"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/Helping-Crew.png" height="175px"/></a>
+<p align="Center"><strong><u>Never forget where you've been. Never loose sight of where you're going. Never forget who helped you out while everyone else was making excuses. And never take for granted the people who travel the journey with you.</u></strong></p>
 
 
     
