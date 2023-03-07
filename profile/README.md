@@ -189,6 +189,8 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 ## Milestones
 
+`**Below are the milestones of Our Destiny that have been and need to be achieved in order to successfully become the Vision**`
+
 
 - [x] **Isolation-based Security to Prevent and Enhance Incident Response for Personal Assistance Systems. [Phase I]** :shield:<details><summary>Know more</summary><p><br />
     **Problem Statement :** <br />
@@ -294,8 +296,11 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 > **Disclaimer :**
 > `Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have by far and are yet to be completed. Thank You.`
 
-**Repos Under Maintainance And Construction -  Stay Tuned to Know More...**
+**In Project Destiny, we follow a computational approach to modeling artificial development as a theory of evolution. The approach will be used to create algorithms and models that can evolve and learn over time, adapting to changing conditions and improving their performance through a process of trial and error. The project aims to gain new insights into the nature of learning, creativity, and intelligence, and develop more sophisticated and powerful AI systems that can solve complex problems in a variety of domains.**
 
+**`Repos Under Maintainance And Construction -  Stay Tuned to Know More...`**
+
+**Evolutions Of Destiny**
 
 - [The Birth Of Destiny](https://github.com/Our-Destiny/Destiny-The-Birth)
 
