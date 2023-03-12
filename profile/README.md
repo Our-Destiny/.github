@@ -337,7 +337,10 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 
 ---
+
 <a href="#evolutions"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RiseQuote.png" height="175px"/></a>
+<p align="Center"><strong><u>People rise out of the ashes because, at some point, they are invested with a belief in the possibility of triumph over seemingly impossible odds. - Robert Downey, Jr.</u></strong></p>
+
 ---
 
 ### Connect with us:
