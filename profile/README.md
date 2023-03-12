@@ -294,7 +294,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 ## Evolutions
 
 > **Disclaimer :**
-> `Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have by far and are yet to be completed. Thank You.`
+> `Project Destiny is not an open-sourced Project, and you will be only witnessing the results and milestones of development that we have and are yet to be completed. Thank You.`
 
 **In Project Destiny, we follow a computational approach to modeling artificial development as a theory of evolution. The approach will be used to create algorithms and models that can evolve and learn over time, adapting to changing conditions and improving their performance through a process of trial and error. Using this approach, we aims to gain new insights into the nature of learning, creativity, and intelligence, and develop more sophisticated and powerful AI systems that can solve complex problems in a variety of domains.**
 
