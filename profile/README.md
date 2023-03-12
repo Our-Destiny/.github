@@ -337,6 +337,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 
 ---
+<a href="#evolutions"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RiseQuote.png" height="175px"/></a>
 ---
 
 ### Connect with us:
