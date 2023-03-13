@@ -346,6 +346,10 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 <p align="Center"><strong><u>Join us on the Journey, as we Unravel the Endless Possibilities in Artificial Intelligence.</u></strong></p>
 
-[![Instagram Follow](https://img.shields.io/badge/Connect%20With%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
 
+<p align="center">
+  <a href="https://www.instagram.com/__the.fallen.angels/">
+    <img src="https://img.shields.io/badge/Connect%20With%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow" />
+  </a>
+</p>
 
