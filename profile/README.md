@@ -339,12 +339,13 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 ---
 
 <a href="#team"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/RiseQuote.png" height="175px"/></a>
+
 <p align="Center"><strong><u>People rise out of the ashes because, at some point, they are invested with a belief in the possibility of triumph over seemingly impossible odds. - Robert Downey, Jr.</u></strong></p>
 
----
+<a href="#team"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheJourneyQuote.png" height="175px"/></a>
 
-### Connect with us:
+<p align="Center"><strong><u>Join us on the Journey, as we Unravel the Endless Possibilities in Artificial Intelligence.</u></strong></p>
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
+[![Instagram Follow](https://img.shields.io/badge/Connect%20With%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
 
 
