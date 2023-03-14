@@ -344,7 +344,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 
 <a href="#team"><img width="100%" height="auto" src="https://github.com/Our-Destiny/.github/blob/main/profile/assets/TheJourneyQuote.png" height="175px"/></a>
 
-<p align="Center"><strong><u>Join us on the Journey, to Unravel the Endless Possibilities in Artificial Intelligence Together.</u></strong></p>
+<p align="Center"><strong><u>Join us on a journey to discover the infinite possibilities of Artificial Intelligence together, and make this world a better place.</u></strong></p>
 
 
 <p align="center">
