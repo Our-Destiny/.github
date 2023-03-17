@@ -1,5 +1,5 @@
 <a href="#evolutions"><img width="100%" height="auto" src="https://github.com/Our-Destiny-R-D-Labs/.github/blob/main/profile/assets/ORDRLabsWall.png" height="175px"/></a>
-![Dragonfire](https://github.com/Our-Destiny/.github/blob/main/profile/assets/AnimGitWall.gif)
+
 
 <p align="center">
     <img alt="Build" src="https://img.shields.io/badge/build-passing-success">
