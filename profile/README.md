@@ -327,7 +327,7 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 * [Neeraj.P](https://www.linkedin.com/in/neeraj-palliyali/) : Python Dev | AI Dev | Data Science Enthusiast | **Co-Founder**
 * [Ajith Manikandan](https://www.linkedin.com/in/aji81/) : Python Dev | Automation Engineer
 * [Ajith Sagar](https://example.com) : Python Dev | Automation Engineer | Designer
-* [Badhusha](https://example.com) : UI/UX Designer | Web Developer
+* [Ebrahim Badhusha](https://example.com) : UI/UX Designer | Web Developer
 * [Nikhil Krishnan T](https://www.linkedin.com/in/nikhil-krishnan-odrdl/) : Python Dev | Designer | Data Science Enthusiast
 * [Sooraj.S.R](https://example.com) : Python Dev | Automation Engineer 
 * [Surya.A.S](https://example.com) : Python Dev | Designer
