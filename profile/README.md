@@ -132,6 +132,8 @@ He even believes that, instead of being terrifying, these possibilities are thri
   - <strong>Deep user sentimental & emotional analysis for advanced conversation control in Destiny.</strong>
   - <strong>Natural Language Interface(Multi-Lingustic Speech Recognition & Natural Language Understanding).</strong>
   - <strong>Generative AI (Natural Language Genration using Retreival Augmented Generation[RAG]).</strong>
+  - <strong>Computer Vision for personalized environment analysis and user assistance.</strong>
+  - <strong>Natural Speech(Text to Speech).</strong>
 - <strong>Ensure user's personal Data Integrity.</strong>
 - <strong>Improve user's personal Data Security.</strong>
 - <strong>Universal Infrastructure Enhancement.</strong>
