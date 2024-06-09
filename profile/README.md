@@ -130,6 +130,8 @@ He even believes that, instead of being terrifying, these possibilities are thri
   - <strong>Intelligent Personal Assistance System.(Destiny)</strong>
   - <strong>Autonomous Decision making for home automation systems using Destiny.</strong>
   - <strong>Deep user sentimental & emotional analysis for advanced conversation control in Destiny.</strong>
+  - <strong>Natural Language Interface(Multi-Lingustic Speech Recognition & Natural Language Understanding).</strong>
+  - <strong>Generative AI (Natural Language Genration using Retreival Augmented Generation[RAG]).</strong>
 - <strong>Ensure user's personal Data Integrity.</strong>
 - <strong>Improve user's personal Data Security.</strong>
 - <strong>Universal Infrastructure Enhancement.</strong>
