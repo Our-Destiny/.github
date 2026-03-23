@@ -334,7 +334,6 @@ Placement Opportunities and Cash Prizes for all Finalists!</br>
 * [Abhinav.A.R](https://www.linkedin.com/in/abhinav-a-r-724933264/) : Jr.Python Dev
 * [Shana Jasila](https://www.linkedin.com/in/shanajasila/) : Web Dev | Designer
 * [Rahiyanath](https://example.com) : Web Dev
-* [Ebrahim Badhusha](https://example.com) : UI/UX Designer | Web Developer
 * [Sooraj.S.R](https://example.com) : Python Dev | Automation Engineer 
 
 
